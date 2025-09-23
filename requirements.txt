@@ -1,5 +1,20 @@
+# Core
 streamlit
 pandas
 numpy
-pillow
+Pillow
+matplotlib
+
+# Multilingual TTS / STT
+pyttsx3
+gTTS
+SpeechRecognition
+pydub
+
+# Machine Learning
+tensorflow   # For Keras model loading (pest_model.h5)
 scikit-learn
+
+# Optional (if you plan to use microphone directly)
+# sounddevice
+# openai-whisper   # If you want advanced STT
